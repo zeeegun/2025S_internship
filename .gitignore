@@ -1,1 +1,3 @@
-checkpoints/*.pth
+checkpoints/
+cocoop_experiment/
+DL_FINAL.ipynb
